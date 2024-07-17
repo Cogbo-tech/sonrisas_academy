@@ -339,7 +339,9 @@ main {
 
 /* styling for price section */
 #pricing {
-  /* background-color: slateblue; */
+  background-image: url(assets/bg2.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
   width: 90%;
   margin: 0 auto;
   display: flex;
@@ -366,6 +368,7 @@ main {
   box-shadow: 2px 2px 5px 5px whitesmoke;
   border-bottom-right-radius: 10px;
   border-bottom-left-radius: 10px;
+  background-color: white;
 
   /* background-color: fuchsia; */
   /* color: black; */
